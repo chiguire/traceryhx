@@ -1,7 +1,7 @@
 {
  "name": "traceryhx",
  "url" : "https://github.com/chiguire/traceryhx",
- "license": "Apache 2.0",
+ "license": "Apache",
  "tags": ["procgen","json","language","text"],
  "description": "A framework-agnostic Haxe port of galaxykate's Tracery library for procedurally generated texts",
  "version": "1.0.0",
