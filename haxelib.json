@@ -4,7 +4,7 @@
  "license": "Apache",
  "tags": ["procgen","json","language","text"],
  "description": "A framework-agnostic Haxe port of galaxykate's Tracery library for procedurally generated texts",
- "version": "1.0.0",
+ "version": "1.0.1",
  "releasenote": "",
  "contributors": ["chiguire"],
  "dependencies": {}
