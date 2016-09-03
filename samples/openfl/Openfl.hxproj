@@ -18,7 +18,7 @@
   <classpaths>
     <class path="C:\HaxeToolkit\haxe\lib\openfl\4,1,0" />
     <class path="C:\HaxeToolkit\haxe\lib\lime\3,1,0" />
-    <class path="C:\HaxeToolkit\haxe\lib\traceryhx\1,0,0" />
+    <class path="C:\HaxeToolkit\haxe\lib\traceryhx\1,0,1" />
     <class path="Source" />
     <class path="C:\HaxeToolkit\haxe\lib\openfl\4,1,0\externs\core\flash" />
     <class path="C:\HaxeToolkit\haxe\lib\openfl\4,1,0\externs\core\openfl" />
@@ -27,7 +27,7 @@
   </classpaths>
   <!-- Build options -->
   <build>
-    <option directives="openfl=4.1.0&#xA;lime=3.1.0&#xA;traceryhx=1.0.0&#xA;tools=3.1.0&#xA;no-compilation&#xA;openfl-flash&#xA;web&#xA;display" />
+    <option directives="openfl=4.1.0&#xA;lime=3.1.0&#xA;traceryhx=1.0.1&#xA;tools=3.1.0&#xA;no-compilation&#xA;openfl-flash&#xA;web&#xA;display" />
     <option flashStrict="False" />
     <option noInlineOnDebug="False" />
     <option mainClass="ApplicationMain" />

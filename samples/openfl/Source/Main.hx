@@ -53,9 +53,13 @@ class Main extends Sprite {
 		trace("Grammar result: " + grammar);
 		
 		trace("Flatten result: " + grammar.flatten("#origin#", false));
+		grammar.clearState();
 		trace("Flatten result: " + grammar.flatten("#origin#", false));
+		grammar.clearState();
 		trace("Flatten result: " + grammar.flatten("#origin#", false));
+		grammar.clearState();
 		trace("Flatten result: " + grammar.flatten("#origin#", false));
+		grammar.clearState();
 	}
 	
 	
