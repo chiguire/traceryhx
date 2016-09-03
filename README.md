@@ -2,7 +2,7 @@
 
 This is the port of the current (as of August 2016) tracery2 branch of galaxykate's [original javascript implementation](https://github.com/galaxykate/tracery/tree/tracery2).
 
-*Status:* The library is able to follow simple grammars with modifiers, still working on saving data.
+*Status:* The library is able to follow the grammars in the following documentation. Works for flash and html5 targets, still not for native.
 
 The original documentation (adapted to Haxe) follows after this section.
 
