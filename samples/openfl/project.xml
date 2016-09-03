@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Traceryhx sample" package="traceryhx.samples" version="1.0.0" company="CD" />
+	<app main="Main" path="Export" file="TraceryhxSample" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="traceryhx"/>
+	
+	<assets path="Assets" rename="assets" />
+	<icon path="Assets/openfl.svg" />
+</project>
