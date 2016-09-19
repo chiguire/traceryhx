@@ -1,8 +1,6 @@
 # Welcome to traceryhx!
 
-This is the port of the current (as of August 2016) tracery2 branch of galaxykate's [original javascript implementation](https://github.com/galaxykate/tracery/tree/tracery2).
-
-*Status:* The library is able to follow the grammars in the following documentation. Works for flash and html5 targets, still not for native.
+This is the port of the current (as of August 2016) tracery2 branch of galaxykate's [original javascript implementation](https://github.com/galaxykate/tracery/tree/tracery2). The library is able to follow the grammars in the following documentation.
 
 The original documentation (adapted to Haxe) follows after this section.
 
