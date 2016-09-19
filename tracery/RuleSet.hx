@@ -27,9 +27,9 @@ class RuleSet
 		if (Std.is(raw, Array)) {
 			defaultRules = [];
 			
-			for (f in Reflect.fields(raw)) {
-				defaultRules.push(Std.string(Reflect.field(raw, f)));
-			}
+			for (i in (0...raw.length)) {
+				defaultRules.push(Std.string(raw[i]));
+			}	
 		}
 		else if (Std.is (raw, String)) {
 			defaultRules = [Std.string(raw)];
